@@ -1,0 +1,11 @@
+{
+  "endpoint": "https://video.bunnycdn.com/tusupload",
+  "headers": {
+    "AuthorizationExpire": "1766155185",
+    "AuthorizationSignature": "fd02e62dfe2f1a4c66deda1848f7e9d697256602657ca2d14f91eff89d10526f",
+    "LibraryId": "568030",
+    "VideoId": "84ceb697-433a-426f-908a-9f1a7d8ef7bd"
+  },
+  "videoId": "84ceb697-433a-426f-908a-9f1a7d8ef7bd",
+  "expireAt": 1766155185
+}
